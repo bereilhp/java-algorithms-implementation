@@ -18,6 +18,7 @@ ant run_main
 > **_NOTA:_**  Ejecutar desde dentro de la carpeta java-algorithms-implementation.
 
 Resultado tras ejecutar el comando anterior:
+
 ![](Resultado.png)
 
 ## Grafo donde se genera el camnino 
