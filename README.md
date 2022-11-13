@@ -1,6 +1,6 @@
 # Práctica 2 
 
-Hecha por Maria Calvo Torres, Pedro Bereilh y Gonzalo Valdez Casis
+Hecha por María Calvo Torres, Pedro Bereilh y Gonzalo Valdez Casis
 
 ## Como ejecutar el programa
 Debemos tener instalado Apache Ant para comprobar si lo tenemos usar el comando:
