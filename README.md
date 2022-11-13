@@ -38,7 +38,7 @@ Resultado tras ejecutar el comando anterior ir de v1 a v10:
 - La variable fScore en la linea 52 de la clase Astar.java, la cual rellena sus datos en la linea 54-55
 
 **¿Qué método habría que modificar para que la heurística representara la distancia aérea entre vértices?**
-- el metodo heuristicCostEstimate en la linea 119 de la clase Astar.java, por el momento devuelve 1 y no utiliza un calculo de distancias aéreas.
+- El método heuristicCostEstimate en la linea 119 de la clase Astar.java, por el momento devuelve 1 y no utiliza un calculo de distancias aéreas.
 
 **¿Realiza este método reevaluación de nudos cuando se encuentra una nueva ruta a un determinado vértice? Justifique la respuesta.**
-- Si, en la linea 96 se reevaluan todos los nudos del openSet ordenando el openSet para que el siguiente nudo a expandir sea el de menor fScore, se utiliza un comparador en la linea 62 que compara los fScore y devuelve valores que son utiles para la funcion sort.
+- Si, en la linea 96 se reevaluan todos los nudos del openSet ordenando el openSet para que el siguiente nudo a expandir sea el de menor fScore, se utiliza un comparador en la linea 62 que compara los fScore y devuelve valores que son utiles para la función sort.
