@@ -17,7 +17,7 @@ ant run_main
 
 > **_NOTA:_**  Ejecutar desde dentro de la carpeta java-algorithms-implementation.
 
-Resultado tras ejecutar el comando anterior:
+Resultado tras ejecutar el comando anterior ir de v1 a v10:
 
 ![](Resultado.png)
 
