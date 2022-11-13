@@ -17,10 +17,13 @@ ant run_main
 
 > **_NOTA:_**  Ejecutar desde dentro de la carpeta java-algorithms-implementation.
 
+Resultado tras ejecutar el comando anterior:
+![](Resultado.png)
+
 ## Grafo donde se genera el camnino 
 - Queremos ir de v1 a v10 y usamos el algoritmo A*
 
-![](grafo.png)
+![](GrafoAEstrella.PNG)
 
 ## Preguntas sobre la práctica
 
